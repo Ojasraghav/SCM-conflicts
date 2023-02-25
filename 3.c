@@ -10,7 +10,8 @@ int ppow(int j,int n)
 void main()
 {
     int a,b;
-    printf("%d",pp(2,3));
+    printf("%d",ppow(2,3));
+   
 
 }
     
